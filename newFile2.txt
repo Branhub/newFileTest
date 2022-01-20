@@ -1,6 +1,9 @@
 public class test
 {
+<<<<<<< HEAD
     public static void main(String[] args)
     {
     }
+=======
+>>>>>>> 120c68d68d0a13c9fb44c48ea4a069950aefead7
 }
